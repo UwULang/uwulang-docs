@@ -9,6 +9,10 @@ slug: /
 
 **Learn more about UwULang at [uwulang.vercel.app](https://uwulang.vercel.app/), where you can also try it out!**
 
+Thanks to our sponsors before we start:
+
+- [Exanut](https://github.com/Exanut)
+
 ## Background
 
 UwULang is the soon to be \#1 programming language in the world. It is a

@@ -7,7 +7,7 @@ slug: /
 
 [![Banner](/img/uwu-social-card.png)](https://uwulang.vercel.app/)
 
-**Learn more about UwULang at [uwulang.vercel.app](https://uwulang.vercel.app/), where you can also try it out!**
+**Learn more about UwULang at [uwulang.com](https://uwulang.com/), where you can also try it out!**
 
 Thanks to our sponsors before we start:
 

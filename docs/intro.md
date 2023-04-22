@@ -13,6 +13,8 @@ Thanks to our sponsors before we start:
 
 - [Exanut](https://github.com/Exanut)
 
+Also thanks to [Daniel Cristofani](http://www.hevanet.com/cristofd/) who created Brainfuck!
+
 ## Background
 
 UwULang is the soon to be \#1 programming language in the world. It is a
@@ -286,6 +288,10 @@ Standard output:
 ...
 10000
 ```
+
+## Extension
+
+In a classical Turing machine, the input is assumed to be loaded onto the tape/memory. If you want to implement the preload tape with a `--preload` feel free to do so. This should take in a csv with unsigned short ints (range from 0 to 127 in comma separate list no spaces). This will load all the numbers onto the tape. 
 
 ## Metadata
 
